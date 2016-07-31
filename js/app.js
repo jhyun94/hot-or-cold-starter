@@ -35,7 +35,7 @@ $(document).ready(pageLoad);
 	
 	
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
   	//fetch dom objects
   	newButton = $('a.new');
   	form = $('form');
